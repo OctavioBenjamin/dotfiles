@@ -1,0 +1,12 @@
+layout {
+	tab name="system"{
+		pane {
+			command "btop"
+		}
+	}
+	tab name="main"{
+		pane {
+			command "fastfetch"
+		}
+	}
+}
