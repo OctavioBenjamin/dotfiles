@@ -19,7 +19,8 @@ return {
       colorscheme = "gruvbox",
     },
   },
-
+  -- Plugin para latex
+  { "lervag/vimtex", lazy = false },
   -- change trouble config
   {
     "folke/trouble.nvim",
