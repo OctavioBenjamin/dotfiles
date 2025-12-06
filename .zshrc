@@ -123,4 +123,4 @@ precmd() {
 alias ls='eza --icons --sort name'
 alias ll='eza -lh --icons --sort name'
 alias la='eza -lha --icons --sort name'
-alias lt='eza --tree --icons --sort name'
+alias lt='eza -a --tree --icons --sort name'

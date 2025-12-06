@@ -1,0 +1,51 @@
+/* Estilo Gruvbox para Wofi */
+
+window {
+    margin: 0px;
+    border: 2px solid #d79921; /* Borde amarillo Gruvbox */
+    background-color: #282828; /* Fondo oscuro */
+    border-radius: 10px;
+    font-family: "JetBrainsMono Nerd Font"; /* Tu fuente preferida */
+}
+
+#input {
+    margin: 5px;
+    border: none;
+    color: #ebdbb2; /* Texto claro */
+    background-color: #3c3836; /* Fondo de la barra un poco más claro */
+    border-radius: 5px;
+}
+
+#inner-box {
+    margin: 5px;
+    border: none;
+    background-color: #282828;
+}
+
+#outer-box {
+    margin: 5px;
+    border: none;
+    background-color: #282828;
+}
+
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+#text {
+    margin: 5px;
+    border: none;
+    color: #ebdbb2;
+}
+
+/* El elemento seleccionado */
+#entry:selected {
+    background-color: #d79921; /* Amarillo intenso */
+    border-radius: 5px;
+}
+
+/* El texto al seleccionarlo cambia a oscuro para contraste */
+#text:selected {
+    color: #282828;
+}
