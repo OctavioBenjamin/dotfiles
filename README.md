@@ -3,7 +3,7 @@
 > Configuración personal para **Fedora Linux** usando **Hyprland**.
 
 ![Screenshot](screenshot.png)
-*(Tip: Saca una captura linda de tu escritorio y guárdala como `screenshot.png` en la carpeta)*
+![Mi OS](screenshot.png)
 
 ## 🛠️ The Stack
 
