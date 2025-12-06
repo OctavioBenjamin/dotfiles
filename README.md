@@ -2,7 +2,6 @@
 
 > Configuración personal para **Fedora Linux** usando **Hyprland**.
 
-![Screenshot](screenshot.png)
 ![Mi OS](screenshot.png)
 
 ## 🛠️ The Stack
