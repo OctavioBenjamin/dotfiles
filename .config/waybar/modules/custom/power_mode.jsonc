@@ -1,0 +1,7 @@
+// En la sección de módulos individuales
+"custom/power-mode": {
+    "format": "{}",
+    "exec": "~/scripts/get_power_mode_waybar.sh", // El script que creamos antes
+    "interval": 2, 
+    "on-click": "~/scripts/toggle_power_mode.sh" // Para que al hacer clic cambie el modo
+}
