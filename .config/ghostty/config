@@ -1,5 +1,9 @@
-theme = Gruvbox Dark Hard
-window-padding-x = 10
-window-padding-y = 10
+#theme = Gruvbox Dark Hard
+window-padding-x = 15
+window-padding-y = 15
 
+font-size = 13
 
+background-opacity = 0.8
+
+theme = matugen-theme

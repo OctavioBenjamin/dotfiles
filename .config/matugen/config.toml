@@ -1,0 +1,10 @@
+[config]
+reload_apps = false
+
+[templates.hyprland]
+input_path = "~/.config/matugen/templates/hyprland.conf"
+output_path = "~/.config/hypr/matugen-colors.conf"
+
+[templates.ghostty]
+input_path = "~/.config/matugen/templates/ghostty.conf"
+output_path = "~/.config/ghostty/themes/matugen-theme"

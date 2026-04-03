@@ -1,1 +1,15 @@
-{}
+{
+  "custom/net-info": {
+    "icon": "󰖩",
+    "label": "{}",
+    "tooltip": "Información de Red",
+    "truncationSize": -1,
+    "execute": "/home/octavio/.config/hyprpanel/scripts/net_info.sh",
+    "interval": 2000,
+    "hideOnEmpty": true,
+    "actions": {
+      "onLeftClick": "ghostty -e nmtui",
+      "onRightClick": ""
+    }
+  }
+}
